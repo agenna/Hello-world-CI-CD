@@ -13,7 +13,7 @@
 <input type="radio" id="css" name="fav_language" value="CSS">
 <label for="css">CSS</label><br>
 <input type="radio" id="javascript" name="fav_language" value="JavaScript">
-<label for="javascript">JavaScript</label>
+<label for="javascript">JavaScript</label><br>
 <input type="radio" id="python" name="fav_language" value="python">
 <label for="python">Pyhton</label>
 </form> 
