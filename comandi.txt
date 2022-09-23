@@ -1,0 +1,3 @@
+docker run -d -it  --name tomcat1 -p 8082:8080   tomcat:latest
+
+docker exec -it tomcat1 /bin/bash
