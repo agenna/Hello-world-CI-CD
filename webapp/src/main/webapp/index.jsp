@@ -15,7 +15,7 @@
 <input type="radio" id="javascript" name="fav_language" value="JavaScript">
 <label for="javascript">JavaScript</label><br>
 <input type="radio" id="python" name="fav_language" value="python">
-<label for="python">Pyhton</label>
+<label for="python">Pyhton</label><br>
 <input type="radio" id="csharp" name="fav_language" value="csharp">
 <label for="csharp">C Sharp</label>
 </form> 
