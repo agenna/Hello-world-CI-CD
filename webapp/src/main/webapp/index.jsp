@@ -19,5 +19,7 @@
 <input type="radio" id="csharp" name="fav_language" value="csharp">
 <label for="csharp">C Sharp</label><br>
 <input type="radio" id="c++" name="fav_language" value="c++">
-<label for="c++">C++</label>
+<label for="c++">C++</label><br>
+<input type="radio" id="go" name="fav_language" value="go">
+<label for="go">C++</label>
 </form> 

@@ -1,3 +1,3 @@
 FROM tomcat:latest
 WORKDIR /usr/local/tomcat
-COPY *.war webapps
+RUN cp -R webapps.dist/* webapps
