@@ -26,4 +26,6 @@
 <label for="lisp">Lisp</label><br>
 <input type="radio" id="basic" name="fav_language" value="basic">
 <label for="basic">Basic</label><br>
+<input type="radio" id="cobol" name="fav_language" value="cobol">
+<label for="cobol">Cobol</label><br>
 </form> 
