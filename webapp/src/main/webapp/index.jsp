@@ -32,4 +32,6 @@
 <label for="javascript">javascript</label><br>
 <input type="radio" id="assembler" name="fav_language" value="assembler">
 <label for="assembler">assembler</label><br>
+<input type="radio" id="kotlin" name="fav_language" value="kotlin">
+<label for="kotlin">kotlin</label><br>
 </form> 
