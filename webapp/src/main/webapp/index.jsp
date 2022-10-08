@@ -34,4 +34,6 @@
 <label for="assembler">assembler</label><br>
 <input type="radio" id="kotlin" name="fav_language" value="kotlin">
 <label for="kotlin">kotlin</label><br>
+<input type="radio" id="typescript" name="fav_language" value="typescript">
+<label for="typescript">typescript</label><br>
 </form> 
