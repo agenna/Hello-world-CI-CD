@@ -30,4 +30,6 @@
 <label for="cobol">Cobol</label><br>
 <input type="radio" id="javascript" name="fav_language" value="javascript">
 <label for="javascript">javascript</label><br>
+<input type="radio" id="assembler" name="fav_language" value="assembler">
+<label for="assembler">assembler</label><br>
 </form> 
